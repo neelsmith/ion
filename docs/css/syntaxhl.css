@@ -1,3 +1,25 @@
+.q::before {
+    content: "«";
+}
+
+.q::after {
+    content: "»";
+}
+.q {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.intro {
+    border-radius: 25px;
+    background-color: #f0f7fb;
+    border-left: solid 4px  #3498db;
+    line-height: 18px;
+    overflow: hidden;
+    padding: 15px 60px;
+  font-style: normal;
+ }
+
 .highlighted {
     background-color: yellow;
     font-weight: bold;
@@ -6,6 +28,10 @@
 .speaker {
     color: silver;
     font-weight: bold;
+}
+
+.speaker::before {
+    content: "— ";
 }
 
 code {
