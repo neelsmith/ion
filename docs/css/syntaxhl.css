@@ -1,0 +1,34 @@
+.highlighted {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.speaker {
+    color: silver;
+    font-weight: bold;
+}
+
+code {
+    color:      rgb(24, 23, 162);
+    font-style: normal;
+}
+
+em {
+    color: rgb(159, 69, 17);
+    font-style: normal;
+}
+
+.suppl {
+    text-decoration-line:  underline;
+    text-decoration-style:  wavy;
+    text-decoration-color: silver;  
+    font-weight: lighter;
+}
+.suppl::before {
+    content: "💭["
+}
+
+.suppl::after {
+    content: "]"
+}
+ 
