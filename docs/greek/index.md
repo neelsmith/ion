@@ -5,7 +5,7 @@ parent: "Reading Plato's Ion"
 ---
 
 
-# An apporach to reading Greek
+# An approach to reading Greek
 
 ## 1. Reading Greek simple and compound sentences
 
