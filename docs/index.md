@@ -11,7 +11,7 @@ has_children: true
 # Selections from Plato's Ion
 
 
-## Passages
+## Passages formatted to highlight syntax
 
 1.  [It must be nice to spend your time studying Homer](./r1/)
 2. [It's inspiration, not skill](./r2/)
