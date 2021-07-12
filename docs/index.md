@@ -2,6 +2,7 @@
 layout: page
 title: Reading Plato's Ion
 nav_order: 0
+has_children: true
 ---
 
 <link rel="stylesheet" type="text/css" href="./css/syntaxhl.css" />
@@ -10,7 +11,13 @@ nav_order: 0
 # Selections from Plato's Ion
 
 
-## Key to display of selected passages
+## Passages
+
+1.  [It must be nice to spend your time studying Homer](./r1/)
+2. [It's inspiration, not skill](./r2/)
+
+
+### Key to display of selected passages
 
 The passages linked below use the follow conventions to highlight features of syntax:
 
@@ -22,7 +29,7 @@ The passages linked below use the follow conventions to highlight features of sy
 - <span class="speaker">Change of speaker</span>
 
 
-## Passages
 
-1.  [It must be nice to spend your time studying Homer](./r1/)
-2. [It's inspiration, not skill](./r2/)
+## Background
+
+One-page summary of [an approach to teading Greek](./greek/)
