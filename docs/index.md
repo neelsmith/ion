@@ -8,7 +8,7 @@ has_children: true
 <link rel="stylesheet" type="text/css" href="./css/syntaxhl.css" />
 
 
-# Selections from Plato's *Ion*
+# Selections from Plato's Ion
 
 
 ## Selected passages formatted to highlight syntax
