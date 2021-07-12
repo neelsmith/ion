@@ -8,10 +8,10 @@ has_children: true
 <link rel="stylesheet" type="text/css" href="./css/syntaxhl.css" />
 
 
-# Selections from Plato's Ion
+# Selections from Plato's *Ion*
 
 
-## Passages formatted to highlight syntax
+## Selected passages formatted to highlight syntax
 
 1.  [It must be nice to spend your time studying Homer](./r1/)
 2. [It's inspiration, not skill](./r2/)
